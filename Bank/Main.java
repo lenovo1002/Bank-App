@@ -1,8 +1,11 @@
-package Notes_App;
+package Bank;
+
+
 public class Main {
 
 	public static void main(String[] args) {
-		ConsoleUI.run();
+		ConsoleUI.ui() ;
 
-}
+	}
+
 }
